@@ -26,7 +26,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io" alt="kantrix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true&locale=en" alt="kantrix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true" alt="kantrix" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix" /></p>
 
