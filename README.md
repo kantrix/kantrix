@@ -21,3 +21,4 @@ Top skills:
 * Tableau
 * R (Programming Language) 
 
+- All of my projects are available at [https://github.com/kantrix?tab=repositories](https://github.com/kantrix?tab=repositories)
