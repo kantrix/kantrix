@@ -25,7 +25,9 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantrix&show_icons=true&locale=en&layout=compact" alt="kantrix-Lakshmi_Kant" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true)
+![Kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
