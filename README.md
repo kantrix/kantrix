@@ -39,7 +39,7 @@ Top skills:
 All of my projects are available at <a href="https://github.com/kantrix?tab=repositories">GitHub_Repositories</a>
 ---
 
-<h3 align="left">Stats: </h3>
+<h3 align="left">GitHub Stats: </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io" alt="kantrix" /></p>
 
