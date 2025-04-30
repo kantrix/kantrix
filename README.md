@@ -40,7 +40,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 ---
 
 <h3 align="left">Stats: </h3>
-----
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io" alt="kantrix" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true" alt="kantrix" /></p>
