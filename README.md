@@ -30,5 +30,4 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kantrix-lakshmi_kant" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/digiaiworld/" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/d03ae5c4-616c-4b70-9d13-51cc2ce00595)
-" alt="kantrix-lakshmi_kant" height="30" width="40" /></a> </p>
+<a href="https://www.kaggle.com/digiaiworld/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d03ae5c4-616c-4b70-9d13-51cc2ce00595" alt="kantrix-lakshmi_kant" height="30" width="40" /></a> </p>
