@@ -2,7 +2,7 @@
 
                                             Data Science & Analytics | R&D | Digital📈Data📊AI🎯
                    Talks about #datascience, #dataanalytics, #techinnovation, #machinelearning, and #artificialintelligence
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kantrix&label=Profile%20views&color=0e75b6&style=flat" alt="kantrixai-lakshmi_kant"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kantrix&label=Profile%20views&color=0e75b6&style=flat" alt="kantrixai-lakshmi_kant"/> </p>
 
 <h1 align="center">Hi 👋, I'm Lakshmi Kant</h1>
 <h3 align="center">A passionate Data Dcientist & Analyst</h3>
@@ -52,6 +52,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kantrixai.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c9c15ace-cdda-4f00-b57d-b37e32d33518" alt="https://kantrixai.netlify.app/" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kant-ai/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/digiaiworld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/digiaiworld/" height="30" width="40" /></a>
 <a href="https://x.com/kantrixai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kantrixai" height="30" width="40" /></a>  
