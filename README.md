@@ -29,9 +29,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 [![Kant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kantrix&theme=dracula)](https://github.com/kantrix/github-readme-activity-graph)
 
-<a href="https://git.io/streak-stats">
-   <img src="https://streak-stats.demolab.com?user=kantrix" alt="GitHub Streak">
-</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
