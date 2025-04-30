@@ -23,6 +23,12 @@ Top skills:
 
 All of my projects are available at [https://github.com/kantrix?tab=repositories](https://github.com/kantrix?tab=repositories)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantrix&show_icons=true&locale=en&layout=compact" alt="kantrix-Lakshmi_Kant" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true&locale=en" alt="kantrix-Lakshmi_Kant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix-Lakshmi_Kant" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kantrix-lakshmi_kant" height="30" width="40" /></a>
