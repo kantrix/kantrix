@@ -25,14 +25,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantrix&show_icons=true&locale=en&layout=compact" alt="kantrix-Lakshmi_Kant" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true&locale=en" alt="kantrix-Lakshmi_Kant" /></p>
-
-<a href="https://github.com/kantrix/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix" />
-</a>
-<a href="https://github.com/kantrix/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantrix&layout=compact&langs_count=8&card_width=320" />
-</a>
+<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kantrix&layout=compact&langs_count=8&card_width=320" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
