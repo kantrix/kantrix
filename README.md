@@ -3,6 +3,7 @@
                                             Data Science & Analytics | R&D | Digital📈Data📊AI🎯
                    Talks about #datascience, #dataanalytics, #techinnovation, #machinelearning, and #artificialintelligence
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kantrix&label=Profile%20views&color=0e75b6&style=flat" alt="kantrixai-lakshmi_kant"/> </p>
+
 ### Hi, I'm Lakshmi Kant.👋
 A Data Scientist & Analyst. 
 
