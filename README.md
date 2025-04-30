@@ -4,6 +4,8 @@
                    Talks about #datascience, #dataanalytics, #techinnovation, #machinelearning, and #artificialintelligence
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kantrix&label=Profile%20views&color=0e75b6&style=flat" alt="kantrixai-lakshmi_kant"/> </p>
 
+<img src="https://profile-counter.glitch.me/{kantrix}/count.svg" alt="kantrixai-lakshmi_kant :: Visitor's Count" />
+
 <h1 align="center">Hi 👋, I'm Lakshmi Kant</h1>
 
 
@@ -27,7 +29,6 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 ![Kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true)
 
-![star-history](https://api.lucabubi.me/chart?username=kantrix&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
