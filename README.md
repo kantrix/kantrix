@@ -34,7 +34,9 @@ Top skills:
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> &nbsp;
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>  
 
+---
 All of my projects are available at [https://github.com/kantrix?tab=repositories](https://github.com/kantrix?tab=repositories)
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io" alt="kantrix" /></p>
 
