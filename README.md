@@ -35,13 +35,12 @@ Top skills:
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>  
 
 All of my projects are available at [https://github.com/kantrix?tab=repositories](https://github.com/kantrix?tab=repositories)
-<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io" alt="kantrix" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true" alt="kantrix" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix" /></p>
 
 [![Kant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kantrix&theme=dracula)](https://github.com/kantrix/github-readme-activity-graph)
 
