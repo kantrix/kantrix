@@ -27,6 +27,8 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 ![Kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true)
 
+[![Kant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kantrix&theme=dracula)](https://github.com/kantrix/github-readme-activity-graph)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
