@@ -47,9 +47,9 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/kantrixai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kantrixai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kant-ai/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kant-ai/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/digiaiworld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/digiaiworld/" height="30" width="40" /></a>
+<a href="https://x.com/kantrixai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kantrixai" height="30" width="40" /></a>  
 <a href="https://medium.com/@kantrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kantrix" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kantrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kantrix" height="30" width="40" /></a>
 <a href="https://leetcode.com/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kant-ai/" height="30" width="40" /></a>
