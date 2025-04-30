@@ -36,7 +36,7 @@ Top skills:
 
 
 
-All of my projects are available at <a href="https://github.com/kantrix?tab=repositories">GitHub Repositories</a>
+All of my projects are available at <a href="https://github.com/kantrix?tab=repositories">GitHub_Repositories</a>
 ---
 
 <h3 align="left">Stats: </h3>
