@@ -5,7 +5,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kantrix&label=Profile%20views&color=0e75b6&style=flat" alt="kantrixai-lakshmi_kant"/> </p>
 
 <h1 align="center">Hi 👋, I'm Lakshmi Kant</h1>
-<h1 align="center">A Data Scientist & Analyst</h1>
+<h2 align="center">A Data Scientist & Analyst</h2>
 
 Experienced Data Scientist and Analyst with over 3+ years of working on real-world datasets; collecting, analyzing, and interpreting large and complex data sets to identify patterns, trends, and insights that inform business decisions. and using various data visualization techniques to communicate insights and findings effectively, also, designing and implementing models, ML algorithms, and statistical analyses to solve specific business problems and develop predictive models. 
 
