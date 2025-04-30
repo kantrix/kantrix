@@ -52,7 +52,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kantrixai.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/13979b59-7ead-4092-858f-1587ca05cb77" alt="https://kantrixai.netlify.app/" /></a>  
+<a href="https://kantrixai.netlify.app/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/13979b59-7ead-4092-858f-1587ca05cb77" alt="https://kantrixai.netlify.app/" height="40" width="35" /></a>  
 <a href="https://www.linkedin.com/in/kant-ai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kant-ai/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/digiaiworld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/digiaiworld/" height="30" width="40" /></a>
 <a href="https://x.com/kantrixai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kantrixai" height="30" width="40" /></a>  
