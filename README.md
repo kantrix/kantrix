@@ -27,7 +27,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 ![Kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kantrix)
+![star-history](https://api.lucabubi.me/chart?username=kantrix&repository=REPOSITORY&color=blue)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
