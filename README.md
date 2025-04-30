@@ -41,6 +41,9 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true" alt="kantrix" /></p>
 
+![image](https://github.com/user-attachments/assets/864fed12-d4bf-49ab-a529-18b0a21bfe1f)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix" /></p>
 
 [![Kant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kantrix&theme=dracula)](https://github.com/kantrix/github-readme-activity-graph)
