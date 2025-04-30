@@ -24,12 +24,11 @@ Top skills:
 All of my projects are available at [https://github.com/kantrix?tab=repositories](https://github.com/kantrix?tab=repositories)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kantrix&exclude_repo=github-readme-stats,kantrix.github.io)
-
+&nbsp;
 ![Kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true)
 
 [![Kant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kantrix&theme=dracula)](https://github.com/kantrix/github-readme-activity-graph)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrixai" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
