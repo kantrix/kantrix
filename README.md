@@ -27,7 +27,7 @@ All of my projects are available at [https://github.com/kantrix?tab=repositories
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kantrix&show_icons=true&locale=en" alt="kantrix-Lakshmi_Kant" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojasureka&" alt="poojasureka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kantrix&" alt="kantrix-Lakshmi_Kant" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
